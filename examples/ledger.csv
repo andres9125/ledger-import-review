@@ -1,0 +1,8 @@
+entry_id,property_code,period,amount_eur,status
+LED-101,AMS-01,2026-10,1250.00,paid
+LED-102,RTM-01,2026-10,350.50,outstanding
+LED-103,AMS-01,2026-10,900.00,on hold
+LED-104,RTM-01,2026-10,12.999,paid
+LED-105,AMS-02,2026-10,50.00,cancelled
+LED-105,AMS-02,2026-10,65.00,open
+LED-106,RTM-02,2026-10,500.00,open
